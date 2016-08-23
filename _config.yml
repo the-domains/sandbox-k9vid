@@ -6,9 +6,9 @@ color:
   saturation: 0.6739954662043601
   rhythmicContrast: 0.9647583614569157
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#F1DBB6'
+    - '#73BAD0'
+    - '#3088B6'
+    - '#00ADBB'
+    - '#021E4E'
 name: Sandbox
